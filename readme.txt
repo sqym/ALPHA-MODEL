@@ -1,7 +1,7 @@
-Name of the program: 
-Newbee12.pro
-Name of the code: 
+Name of the code/program: 
 ALPHA MODEL
+Name of the project: 
+Newbee12.pro
 
 Authors:  
 Hao Weng, Zhengyang Liu, Dayong Wang
