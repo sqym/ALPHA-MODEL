@@ -20,11 +20,11 @@ Contact Email: wangdy@dlut.edu.cn
 Title of the manuscript: 
 ALPHA MODEL: A C++ Code for Modeling and Analyzing Hydrate-saturation-dependent Permeability of Hydrate-bearing Sediments
 --------------------------------------------------------------------------------------------------------------------------
-The source code needs to be run in the Window OS, Debug mode in Qt Creator ver 5.9.9 in C++11 and MinGW_32bit kit pack. Click the "Newbee12 .pro" to run the code. Because the MinGW_32bit kit is an old pack and the Qt version is old, you may fail to run the source code for many reasons. 
+The source code needs to be run in the Window OS, Debug mode in Qt Creator ver 5.9.9 in C++11 with MinGW_32bit kit pack. Input the "Newbee12 .pro" into the Qt Creator and click the "Run" button in the debug mode. Because the MinGW_32bit kit is an old pack and the Qt version is old, you may fail to run the source code for many reasons. 
 ----------------------------------------------------------------------------------------------------------------------------
-Considering this, we packaged the project into a executable software in the "ALPHA MODEL" file folder. You can download this file folder (or the corresponding .zip pack), open and click the "ALPHA MODEL .exe" to run this program without Qt creator. We recommend you to run the program in this way.
+Considering this, we packaged the project into a executable software in the "ALPHA MODEL" file folder. You can download this file folder (or the corresponding .zip pack), open and click the "ALPHA MODEL .exe" to run this program without Qt creator. It can be used as a quick test. We recommend you to run the program in this way.
 --------------------------------------------------------------------------------------------------------------------------
 The helpfile.txt contains instruction guide that provides information on how to use the functions in the program.
-The test data is excel_example.xlsx
+The test data is in the excel_example.xlsx. You can use this file as input data.
 
 
