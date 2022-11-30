@@ -29,5 +29,5 @@ Click the "Settings" button and the "Coordinate System" button. The "Charts Sett
 How to use the "Tools" function:
 The "Tools" button have sub buttons: "Clear", "Cross Cursor", "Markline" and "Zoom". "Clear" button is easy to understand and use. Click the "Cross Cursor" button and move the mouse over the coordinate system, you can see the cross easily. Click the "Cross Cursor" button again to close this function. Click the "Zoom" button and move the mouse over the coordinate system. You can click and hold the left mouse button to pull an area. This area will be enlarged. Click the "Zoom" button again to close this function, and the area will return to normal state.
 ------------------------------------------------------------------------------------------------------------------------------------
-The "Help" button can not be used for now. The "Excel Example" button is linked to the test data file: excel_example.xlsx. If you want to know the format of the imported file, you can open excel_example.xlsx.
+The "Help" button can not be used for now. The "Excel Example" button is linked to the test data file: excel_example.xlsx. If you want to know the format of the imported file, you can open excel_example.xlsx. The "Document" button is to open this helpfile.txt.
 
